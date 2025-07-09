@@ -6,7 +6,7 @@ I hope that I can positively impact people's lives with my solutions! (:
 
 
 [![VaP's GitHub stats](https://github-readme-stats.vercel.app/api?username=va-p&show_icons=true&theme=dark)](https://github.com/va-p)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va-p&theme=dark&layout=compact)](https://github.com/va-p/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va-p&theme=dark&layout=compact)](https://github.com/va-p)
 
   
   
