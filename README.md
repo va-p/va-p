@@ -11,7 +11,7 @@ I hope that I can positively impact people's lives with my solutions! (:
   
   
   #### Find me in Linkedin
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paiva-vitor/)]([https://www.linkedin.com/in/va-p/](https://www.linkedin.com/in/paiva-vitor/))
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paiva-vitor/)](https://www.linkedin.com/in/paiva-vitor/)
   
   
   
