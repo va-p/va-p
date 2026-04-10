@@ -1,5 +1,5 @@
 ## Hello, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-My name is Vitor Paiva, I'm a Mobile and Web Developer!!
+My name is Vitor Paiva, I'm a Mobile and Web Software Engineer!!
 
 I hope that I can positively impact people's lives with my solutions! (:
 
